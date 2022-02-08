@@ -3,7 +3,7 @@
 - Machine learning engineer @ Aillis Inc.
 - Ph.D. candidate @ Dept. of Health Informatics, Kyoto University
 - Researcher @ Dept. of Health Economics and Outcomes Research, the University of Tokyo
-- Kaggle Competitions Master
+- Kaggle Competitions Master (highest rank: 66th)
 
 **Links** 
 | [LinkedIn](https://www.linkedin.com/in/hiroshi-yoshihara-620421185/) 
