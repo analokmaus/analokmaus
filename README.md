@@ -12,4 +12,5 @@
 | [Instagram](https://www.instagram.com/analokmaus/) 
 | [Portfolio](https://analokmaus.github.io/AboutMe/) |
 
-![RabotniKuma's profile](https://github-readme-stats.vercel.app/api?username=analokmaus&count_private=true)
+![RabotniKuma's profile](https://github-readme-stats.vercel.app/api?username=analokmaus&count_private=true&theme=dark)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/analokamus/competition)
