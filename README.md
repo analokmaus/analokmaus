@@ -1,5 +1,5 @@
 # Hiroshi Yoshihara
-**a.k.a. RabotniKuma, РАБОТНИ(КУМА|熊), 吉原浩之**
+**a.k.a. RabotniKuma, 吉原浩之**
 - Machine learning engineer @ Aillis Inc.
 - Ph.D. candidate @ Dept. of Health Informatics, Kyoto University
 - Researcher @ Dept. of Health Economics and Outcomes Research, the University of Tokyo
