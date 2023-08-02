@@ -13,4 +13,4 @@
 | [Portfolio](https://analokmaus.github.io/AboutMe/) |
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/analokamus/competition)
-![RabotniKuma's profile](https://github-readme-stats.vercel.app/api?username=analokmaus&count_private=true&theme=codeSTACKr&hide_border=true)
+![RabotniKuma's profile](https://github-readme-stats.vercel.app/api?username=analokmaus&count_private=true&theme=vision-friendly-dark&hide_border=true)
