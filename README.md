@@ -1,9 +1,10 @@
-# Hiroshi Yoshihara ![analokamus](https://road-to-kaggle-grandmaster.vercel.app/api/simple/analokamus)
+# Hiroshi Yoshihara 
+<!--![analokamus](https://road-to-kaggle-grandmaster.vercel.app/api/simple/analokamus)-->
 **a.k.a. RabotniKuma, 吉原浩之**
+- Kaggle Competitions Grandmaster
 - Machine learning engineer @ Aillis Inc.
 - Ph.D. candidate @ Dept. of Health Informatics, Kyoto University
 - Researcher @ Dept. of Health Economics and Outcomes Research, the University of Tokyo
-- Kaggle Competitions Grandmaster (highest rank: 66th)
 
 **Links** 
 | [LinkedIn](https://www.linkedin.com/in/hiroshi-yoshihara-620421185/) 
@@ -12,5 +13,5 @@
 | [Instagram](https://www.instagram.com/analokmaus/) 
 | [Portfolio](https://analokmaus.github.io/AboutMe/) |
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/analokamus/competition)
+<!--![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/analokamus/competition)-->
 ![RabotniKuma's profile](https://github-readme-stats.vercel.app/api?username=analokmaus&count_private=true&theme=vision-friendly-dark&hide_border=true)
