@@ -3,8 +3,7 @@
 **a.k.a. RabotniKuma, 吉原浩之**
 - Kaggle Competitions Grandmaster
 - Machine learning engineer @ Aillis Inc.
-- Ph.D. candidate @ Dept. of Health Informatics, Kyoto University
-- Researcher @ Dept. of Health Economics and Outcomes Research, the University of Tokyo
+- Researcher @ Dept. of Health Policies and Public Health, the University of Tokyo
 
 **Links** 
 | [LinkedIn](https://www.linkedin.com/in/hiroshi-yoshihara-620421185/) 
