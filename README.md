@@ -3,7 +3,7 @@
 **a.k.a. RabotniKuma, 吉原浩之**
 - Kaggle Competitions Grandmaster
 - Google Developer Expert (Kaggle)
-- AI engineer @ Aillis Inc.
+- AI Specialist @ Aillis Inc.
 - Leader of AI Research Unit @ Dept. of Health Policy and Public Health, the University of Tokyo
 
 **Links** 
