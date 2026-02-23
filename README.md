@@ -1,18 +1,19 @@
 # Hiroshi Yoshihara 
-<!--![analokamus](https://road-to-kaggle-grandmaster.vercel.app/api/simple/analokamus)-->
-**a.k.a. RabotniKuma, 吉原浩之**
-- Kaggle Competitions Grandmaster
-- Google Developer Expert (Kaggle)
-- Research Engineer @ Sakana AI
-- Senior Research Fellow @ Aillis
-- Leader of AI Research Unit @ Dept. of Health Policy and Public Health, the University of Tokyo
+a.k.a. RabotniKuma, 吉原浩之
+
+AI researcher and engineer with a focus on foundation models and medical AI.
+
+[Kaggle Competitions Grandmaster](https://www.kaggle.com/analokamus) and [Google Developer Expert (Kaggle)](https://g.dev/analokmaus) .
+
+## Work
+- Research Engineer @ [Sakana AI](https://sakana.ai/blog/)
+- Senior Research Fellow @ [Aillis](https://aillis.jp/en)
+- Leader of AI Research Unit @ [Dept. of Health Policy and Public Health](https://publichealth.f.u-tokyo.ac.jp/#page_datascience), the University of Tokyo
 
 **Links** 
 | [LinkedIn](https://www.linkedin.com/in/hiroshi-yoshihara-620421185/) 
 | [Twitter](https://twitter.com/analokmaus) 
-| [Kaggle](https://www.kaggle.com/analokamus) 
 | [Instagram](https://www.instagram.com/analokmaus/) 
 | [Portfolio](https://analokmaus.github.io/AboutMe/) |
 
-<!--![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/analokamus/competition)-->
-![RabotniKuma's profile](https://github-readme-stats.vercel.app/api?username=analokmaus&count_private=true&theme=vision-friendly-dark&hide_border=true)
+![RabotniKuma's profile](https://github-stats-extended.vercel.app/api?username=analokmaus&count_private=true&theme=vision-friendly-dark&hide_border=true)
