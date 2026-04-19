@@ -6,7 +6,7 @@ AI researcher and engineer with a focus on foundation models and medical AI.
 [Kaggle Competitions Grandmaster](https://www.kaggle.com/analokamus) and [Google Developer Expert (Kaggle)](https://g.dev/analokmaus) .
 
 ## Work
-- Research Engineer @ [Sakana AI](https://sakana.ai/blog/)
+- Applied Research Engineer @ [Sakana AI](https://sakana.ai/blog/)
 - Senior Research Fellow @ [Aillis](https://aillis.jp/en)
 - Leader of AI Research Unit @ [Dept. of Health Policy and Public Health](https://publichealth.f.u-tokyo.ac.jp/#page_datascience), the University of Tokyo
 
