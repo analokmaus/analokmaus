@@ -3,7 +3,7 @@ a.k.a. RabotniKuma, 吉原浩之
 
 AI researcher and engineer with a focus on foundation models and medical AI.
 
-[Kaggle Competitions Grandmaster](https://www.kaggle.com/analokamus) and [Google Developer Expert (Kaggle)](https://g.dev/analokmaus) .
+[Kaggle Competitions Grandmaster](https://www.kaggle.com/analokamus) and [Google Developer Expert (AI)](https://g.dev/analokmaus) .
 
 ## Work
 - Research Engineer @ [Sakana AI](https://sakana.ai/blog/)
