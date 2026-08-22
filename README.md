@@ -8,7 +8,7 @@ AI researcher and engineer with a focus on foundation models and medical AI.
 ## Work
 - Research Engineer @ [Sakana AI](https://sakana.ai/blog/)
 - Senior Research Fellow @ [Aillis](https://aillis.jp/en)
-- Lead of AI Research Unit @ Dept. of Health Policy and Public Health, the University of Tokyo
+- Project Assistant Professor @ Keio University
 
 **Links** 
 | [LinkedIn](https://www.linkedin.com/in/hiroshi-yoshihara-620421185/) 
